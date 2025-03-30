@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Combat Primal (Unreal Engine 5)**
 
-- 🌱 I’m currently learning **Laravel.**
+- 🌱 I’m currently mastering **Laravel.**
 
 - 👨‍💻 All of my projects are available at [anirudhvijay.xyz](https://anirudhvijay.xyz)
 
