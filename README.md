@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudhvijayaraghavan" alt="anirudhvijayaraghavan" /></a> </p>
 
-- 🔭 I’m currently working on **Combat Primal (Unreal Engine 5)**
+- 🔭 I’m currently working on **Gamedood - A 2-D / 3-D gaming platform to build out my indie game ideas!**
 
-- 🌱 I’m currently mastering **Laravel.**
+- 🌱 I’m currently mastering **Laravel and NextJS.**
 
 - 👨‍💻 All of my projects are available at [anirudhvijay.xyz](https://anirudhvijay.xyz)
 
